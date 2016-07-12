@@ -18,16 +18,8 @@ function upperToHyphenLower(match) {
  }
 
     str = str.replace(/[A-Z]/g, upperToHyphenLower);
-    str = str.replace(/_/g, "");
-    str = str.replace(/ /g, "");
-    str = str.replace(/,/g, "");
-    str = str.replace(/-/g, "");
-    str = str.replace(/:/g, "");
-    str = str.replace(/\\/g, "");
-    str = str.replace(/\//g, "");
-    str = str.replace(/\)/g, "");
-    str = str.replace(/\./g, "");  
-  
+    str = str.replace(/[\W_]/g, "");
+
     str1 = str.split("").reverse().join("");
 
   if (str1 == str) {
