@@ -641,9 +641,8 @@ iframe {
 	height: 440px;
 	vertical-align: middle;
 	text-align: left;
-	font-size: 1.5em;
+	font-size: 1.0em;
 	line-height: 1.5em;
-	font-style: italic;
 	font-weight: 600;
 	margin: 0;
 	box-sizing: border-box;
@@ -651,7 +650,7 @@ iframe {
 	border-left: 3px solid #888;
 	border-top-right-radius: 10px;
 	border-bottom-right-radius: 10px;
-	background: #f8f8f8;
+	background: #f0f0f0;
 	color: #888;
 }
 
