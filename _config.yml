@@ -2,7 +2,7 @@ title: Bridnap.GitHub.io
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: huangyz0918/moving
 
 gems:
   - jekyll-mentions
