@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 In 22+ years of IT and Dev Operations as a programmer, analyst and manager, I've written my share of code, spent countless hours in "break fix", and have led others into gradually working through to a best practices methodology.  My current position is the culmination of what I do best: make projects succeed by having the hands-on knowledge needed to help others understand how to achieve our goals.  Drop me a line below if interested in learning more about my work.
 
 -Brian 
