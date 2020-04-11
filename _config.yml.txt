@@ -1,0 +1,11 @@
+title: Brian Plunkett # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Info Tech Bank Operations VP presiding over Checking, ATM, and Mainframe Ops
+  <br><br>
+  Bachelor of Science in Interdisciplinary Studies with an emphasis in Information Technology Education, Certified File Transfer Professional
+  <br><br>
+  <a href="https://www.linkedin.com/in/briandplunkett">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
