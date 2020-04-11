@@ -38,6 +38,13 @@ I've been writing small bits of code since the Apple IIc days.  I rarely write f
 <br/><br/>    	
 - [Minimal Hacker News Chrome](https://chrome.google.com/webstore/detail/minimal-hacker-news/jgijakambklliabpigfklccjjpinnloi) | **MAY 2016** | I browse Hacker News a lot, but even on that site, I can get lost for awhile just browsing.  So I was looking for a way to see the top stories for the day. Most of the code is borrowed in an attempt at learning how to build a neat little Chrome Extension app.  See the [code](https://github.com/bridnap/hnchrome).
 <br/><br/>
+
 ---
+
+### Web Portfolio
+- [Find Cheap Bargains](https://web.archive.org/web/20130122221126/http://findcheapbargains.com/) | In the age of affiliate marketing between 2007 and 2012, I ran this site along with 26 smaller sites.  I can't say that I was proud of them all. A lot of the others were just money grabs because it was easy at the time to throw up some long tail search pages with eBay and Amazon items and profit.  But I was proud of this one.  I did a ton of research on each and every item I posted.  I bought a great deal of them myself, and never got a single product for free.  There was about 5 years of writing on this site, each post equalling around 500-750 words.  The site is gone now, but the Wayback Machine holds onto at least a snapshot of it forever.
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
