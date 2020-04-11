@@ -4,7 +4,7 @@
 
 ### Overview
 
-My name is Brian Plunkett and I live in north Mississippi. My career has strictly been within the Info Tech of the financial industry. I’ve grown from Mainframe Computer Operator, Production Control Analyst, z/OS System Programmer, and a myriad of other touches in the field of check processing and managed file transmissions. Today I’m a Vice President in financial Info Tech over most of the groups mentioned previously as well as playing an integral part over a large number of bank conversions.
+Hello!  I am Brian and I live in north Mississippi. My career has strictly been within the Info Tech of the financial industry. I’ve grown into this career through a start as  Mainframe Computer Operator, then Production Control Analyst, z/OS System Programmer, and a myriad of other touches in the field of check processing and managed file transmissions. Today I’m a Vice President in financial Info Tech over most of the groups mentioned previously as well as playing an integral part over a large number of bank conversions.
 <br/><br/>
 I’m a ‘70’s-‘80’s kid, so I grew up with Atari’s, Apple IIc’s, and Nintendo systems, basically the golden age of all personal computing and gaming. I dabbled then and I dabble now as you’ll see from my apps. To the chagrin of my children, I spend a lot of my free time with Fortnite. It’s just the easiest game to pick up and play.
 
