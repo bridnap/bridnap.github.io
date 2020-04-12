@@ -42,7 +42,7 @@ I've been writing small bits of code since the Apple IIc days.  I rarely write f
 ---
 
 ### Web Portfolio
-- [Find Cheap Bargains](https://web.archive.org/web/20130122221126/http://findcheapbargains.com/) | In the age of affiliate marketing between 2007 and 2012, I ran this site along with 26 smaller sites.  I can't say that I was proud of them all. A lot of the others were just money grabs because it was easy at the time to throw up some long tail search pages with eBay and Amazon items and profit.  But I was proud of this one.  I did a ton of research on each and every item I posted.  I bought a great deal of them myself, and never got a single product for free.  There was about 5 years of writing on this site, each post equalling around 500-750 words.  The site is gone now, but the Wayback Machine holds onto at least a snapshot of it forever.
+- [Find Cheap Bargains](https://web.archive.org/web/20130122221126/http://findcheapbargains.com/) - In the age of affiliate marketing between 2007 and 2012, I ran this site along with 26 smaller sites.  I can't say that I was proud of them all. A lot of the others were just money grabs because it was easy at the time to throw up some long tail search pages with eBay and Amazon items and profit.  But I was proud of this one.  I did a ton of research on each and every item I posted.  I bought a great deal of them myself, and never got a single product for free.  There was about 5 years of writing on this site, each post equalling around 500-750 words.  The site is gone now, but the Wayback Machine holds onto at least a snapshot of it forever.
 
 ---
 
