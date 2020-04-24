@@ -1,2 +1,3 @@
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [A Closed Border Can’t Stop This Elderly Couple: ‘Love Is the Best Thing in the World](https://www.nytimes.com/2020/04/22/world/europe/coronavirus-denmark-germany-border.html?action=click&module=Top%20Stories&pgtype=Homepage)
+- [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad
